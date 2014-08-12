@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dodge_shoot</string>
+    <string name="Bt_Start">Start Game</string>
+    <string name="Bt_Help">Help</string>
+    <string name="bt_phase1">Phase I</string>
+    <string name="bt_phase2">Phase II</string>
+    <string name="bt_phase3">Phase III</string>
+    <string name="label_level">Difficulty</string>
+
+</resources>
